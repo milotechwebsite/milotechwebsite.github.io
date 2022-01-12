@@ -1,4 +1,6 @@
 ## Welcome to MiloTech Website
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/milotechwebsite/milotechwebsite.github.io/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download milotechwebsite/milotechwebsite.github.io on GitHub">Download</a>
 
 You can use the [editor on GitHub](https://github.com/milowebsite/milowebsite.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
